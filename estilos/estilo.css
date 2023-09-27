@@ -1,0 +1,22 @@
+body, #container {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+
+#container{
+    height: 100%;
+    width: 100%;
+    display: flexbox;
+    flex-direction: row;
+}
+
+#contatos{
+    width: 10%;
+    border: 1px rgb(1, 1, 48) solid;
+    background-color: aliceblue;
+}
+#chaat{
+    background-color: rgb(131, 131, 252);
+}
